@@ -1,2 +1,4 @@
 Name:Ch.Ragavi
+Age:19
 Place:Nadupuru
+I am learning GitHub
